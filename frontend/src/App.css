@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.url-shortener, .url-statistics {
+  margin: 20px auto;
+  max-width: 600px;
+}
+
+input {
+  margin: 5px;
+  padding: 5px;
+}
+
+button {
+  padding: 5px 10px;
+  margin: 5px;
+}
